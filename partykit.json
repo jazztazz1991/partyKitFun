@@ -1,0 +1,10 @@
+{
+  "$schema": "https://www.partykit.io/schema.json",
+  "name": "taught-stuck",
+  "main": "party/server.ts",
+  "compatibilityDate": "2024-03-12",
+  "serve": {
+    "path": "public",
+    "build": "app/client.tsx"
+  }
+}
